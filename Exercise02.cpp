@@ -27,10 +27,10 @@ int main() {
     c - new Circle(raduis);
 
    // 5. Call the display method of the Rectangle Object
-    r1 -> display();
+    r -> display();
    
    // 6. Call the display method of the Circle Object
-    c1 -> display();
+    c -> display();
 
    // 7. Delete the Rectangle Object from memory
     delete r;
