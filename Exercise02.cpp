@@ -21,10 +21,10 @@ int main() {
     r - new Rectangle(length, width);
 
    // 3. Create a dynamic Circle type variable (pointer)
-    circle * c;
+    Circle * c;
 
    // 4. Create a dynamic Circle Object set radius that was input from the keyboard
-    c - new Circle(raduis);
+    c - new Circle(radius);
 
    // 5. Call the display method of the Rectangle Object
     r -> display();
