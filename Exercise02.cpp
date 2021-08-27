@@ -33,10 +33,10 @@ int main() {
     c1 -> display();
 
    // 7. Delete the Rectangle Object from memory
-    delete r1;
+    delete r;
 
    // 8. Delete the Circle Object from memory
-    delete c1;
+    delete c;
   
    // ============ DO NOT CHANGE THE CODE BELOW ===================
    cout << "End of Program" << endl;
